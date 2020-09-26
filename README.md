@@ -5,9 +5,9 @@
 ### How To Use It
  It requires Python and basic knowledge of command line.
 ### Variables You Can Change
- base is the location of the files to be edited. Recommended to copy script to same folder and leave as is.
+ base is the location of the files to be edited. Save the script one level up from the files.
 ```python
-base = ''
+base = 'MUSIC VIDEOS/'
 ```
  The delimiter is what you use to break up the filename to make the folder.
 ```python
