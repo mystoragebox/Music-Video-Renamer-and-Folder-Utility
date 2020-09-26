@@ -13,11 +13,11 @@ base = ''
 ```python
 delimiter = ' - '
 ```
- The script asks you if you would like to continue on each file. If you want to disable this delete line 26 
+ The script asks you if you would like to continue on each file. If you want to disable this delete line 27 
 ```python
 print('This Ok? Artist: ' + splt[0] + ' Song: ' + splt[1])
 ```
- and change line 27 to
+ and change line 28 to
 ```python
 contin = 'y'
 ```
