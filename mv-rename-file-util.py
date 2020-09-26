@@ -1,7 +1,8 @@
 # Rename files and move them into new folders. You can change the base
 # variable and the delimiter variable. If you don't need to confirm
-# every rename you can use the # to comment out print on line 26
-# and replace input('Continue y, n: ') with 'y' on line 27
+# every rename you can use the # to comment out print on line 27
+# and replace input('Continue y, n: ') with 'y' on line 28
+# Check out my other projects at github.com/mystoragebox
 
 import os
 import fnmatch
