@@ -1,5 +1,5 @@
 # Music Video Renamer and Folder Utility
- I was trying to find an easy way to make my music video collection more Jellyfin and Emby friendly. It's not limited to videos, it can rename and move any file as long as it meets the requirements.
+ I was trying to find an easy way to make my music video collection more Jellyfin and Emby friendly. It's not limited to videos, it can rename and move any file as long as it meets the requirements. The code file is mv-rename-file-util.py
 ## What Does It Do?
  For example it will turn `folder\artist - song.mp4` into `folder\artist\song.mp4`. All my videos are in this format so it has no problems. If the script can't find the delimiter, in this case ` - ` it will skip the file. After it's finished the operation it will print all the changes it's made.
 ### How To Use It
